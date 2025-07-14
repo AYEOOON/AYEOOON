@@ -21,7 +21,7 @@
 #### [Haru-Mail]
 - 기록 습관 형성을 돕는 메일링 일기 서비스
 - code: [💌 Haru-Mail](https://github.com/Haru-Mail)
-- skills: `JAVA`, `SpringBoot`, `React`, `TypeScript`
+- skills: `JAVA`, `SpringBoot`
 #### [CS Quiz]
 - CS 개념 학습을 위한 퀴즈 웹 서비스
 - code: [📚 CS Quiz](https://github.com/CSQuiz)
