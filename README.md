@@ -33,7 +33,7 @@
 - code: [Haru-Mail](https://github.com/Haru-Mail)
 - skills: `JAVA`, `SpringBoot`, `Redis`
 
-
+---
 
 ### 🔹 [CS Quiz]
 > CS 핵심 개념 학습을 위한 인터랙티브 퀴즈 웹 서비스
