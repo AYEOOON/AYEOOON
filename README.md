@@ -41,6 +41,13 @@
   </li>
   <li>
     <b>2025.02 ~ 2025.3</b> CS 핵심 개념 학습을 위한 인터랙티브 퀴즈 웹 서비스 - <a href="https://github.com/CSQuiz">CS Quiz</a>
+  </li>
+  <li>
+    <b>2025.08 </b> 농업인을 위한 AI 기반 못난이작물 직거래 홍보 도우미 앱 서비스 - <a href="https://github.com/UhDyL/UhDyL-Backend">UhDyL</a>
+  </li>
+  <li>
+    <b>2025.08 ~ 2025.9</b> 매일의 작은 성공을 기록하고, 서로 응원하며 함께 성장하는 기록 서비스 - <a href="https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_78_BE">Minimo</a>
+  </li>
 </ul>
 
 
@@ -52,6 +59,8 @@
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">  
 
 
-#### 📚 Continuous Learning
-👉 [백엔드 공부 기록 보러가기 (Notion)](https://hammerhead-horse-801.notion.site/Backend-Study-Log-1fe574e30259802fa5cbf01f4471e354?source=copy_link)
-> 체계적인 학습과 성장을 위한 지속적인 기술 연구 및 기록
+#### 🔗 Links
+<a href="https://www.notion.so/Backend-Study-Log-1fe574e30259802fa5cbf01f4471e354" target="_blank">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link">
+</a>
+
