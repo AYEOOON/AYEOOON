@@ -2,17 +2,15 @@
 
 
 
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=AYEOOON&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/AYEOOON?pet-id=802410324382271565"
+    src="https://render.gitanimals.org/lines/AYEOOON?pet-id=690790570522836162"
     width="600"
-    height="200"
+    height="220"
   />
 </a>
   
-  
-  
-
   
 ### 안녕하세요, 김아연입니다 🤠
 
