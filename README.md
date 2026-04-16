@@ -1,16 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=AYEON's%20GITHUB!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
-
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=AYEOOON&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/AYEOOON?pet-id=690790570522836162"
-    width="600"
-    height="220"
-  />
-</a>
-  
   
 ### 안녕하세요, 김아연입니다 🤠
 
