@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=AYEON's%20GITHUB!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=160&section=header&text=AYEON's%20GITHUB!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
   
 ### 안녕하세요, 김아연입니다 🤠
