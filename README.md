@@ -1,11 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=160&section=header&text=AYEON's%20GITHUB!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d3d3d3&height=160&section=header&text=AYEON's%20GITHUB!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
   
 ### 안녕하세요, 김아연입니다 🤠
-
-> **끊임없이 배우고, 기록하고, 나아가는 것을 좋아합니다.**
-
-
 
 #### 🏢 Experiences
 
